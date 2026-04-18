@@ -1,0 +1,9 @@
+{
+  "speakerName": "NovaSound X100",
+  "brand": "NovaAudio",
+  "maxVolume": 100,
+  "defaultVolume": 50,
+  "bluetooth": true,
+  "wifi": true,
+  "firmwareVersion": "1.0.3"
+}
